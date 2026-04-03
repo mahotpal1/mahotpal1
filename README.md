@@ -20,31 +20,7 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python"/>
   </a>
   <a href="https://en.cppreference.com/w/">
-    <img src="https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="C++" title="C++"/>
-  </a>
-  <a href="https://scikit-learn.org/stable/">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="scikit-learn"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB"/>
-  </a>
-  <a href="https://chat.openai.com/">
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" title="FastAPI"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
+    <img src="https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=c++&logoColor=blue" alt="C++" title="C++"/>
   </a>
 </div>
 
